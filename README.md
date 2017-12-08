@@ -9,11 +9,12 @@ If you finish a game and the team feels okay to share the result, it would be gr
 
 I would love to develop this game further, so feedback is appreciated! Add a ticket or pull request, the source files are on [/sources/](/sources/). I am especially interested in nice quotes on the cards to spice them up, feel free to insert them in the [/sources/card_texts.xlsx](/sources/card_texts.xlsx) . Additionally, any thought on improving the game are welcome!
 
+If you want to buy a nicely plasticized version of this game with special game accessoires, or if you want us to host a game session for your team or group of teams? Contact us and we will figure something out.
+
 Have fun playing the game!
 
 Jan Salvador van der Ven
 (http://jansalvador.nl)
-
 
 Credits:
 Special thanks to Sandra Warmolts for the close cooperation in developing this game. Also thanks to the IT-Academy Noord Nederland, DACOM and Get-There for making it possible to practice and improve the game. Last, a big thanks to al the participants of the XP days Benelux 2017 for the feedback.

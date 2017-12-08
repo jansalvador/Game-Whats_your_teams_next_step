@@ -16,5 +16,5 @@ Jan Salvador van der Ven
 
 
 Credits:
-Special thanks to Sandra Warmolds for the close cooperation in developing this game. Also thanks to the IT-Academy Noord Nederland, DACOM and Get-There for making it possible to practice and improve the game. Last, a big thanks to al the participants of the XP days Benelux 2017 for the feedback.
+Special thanks to Sandra Warmolts for the close cooperation in developing this game. Also thanks to the IT-Academy Noord Nederland, DACOM and Get-There for making it possible to practice and improve the game. Last, a big thanks to al the participants of the XP days Benelux 2017 for the feedback.
 
